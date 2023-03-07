@@ -1,0 +1,15 @@
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/bin/Debug/net6.0/zadacha56
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/bin/Debug/net6.0/zadacha56.deps.json
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/bin/Debug/net6.0/zadacha56.runtimeconfig.json
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/bin/Debug/net6.0/zadacha56.dll
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/bin/Debug/net6.0/zadacha56.pdb
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.csproj.AssemblyReference.cache
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.AssemblyInfoInputs.cache
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.AssemblyInfo.cs
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.csproj.CoreCompileInputs.cache
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.dll
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/refint/zadacha56.dll
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.pdb
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/zadacha56.genruntimeconfig.cache
+/Users/tatanaselest/Desktop/ДЗ 54,56,60/Zadacha60/zadacha56/obj/Debug/net6.0/ref/zadacha56.dll
